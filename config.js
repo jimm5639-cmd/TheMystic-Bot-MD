@@ -16,7 +16,8 @@ global.isBaileysFail = false;
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219996125657', '👑 Propietario 👑', true],
+  ['542646228032', 'Proprietario 👑', true],
+  
   ['5492916450307'],
   ['5493794297363'],
   ['59169082575'],
@@ -30,9 +31,10 @@ global.prems = [];
 // Base Rest Api
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
-global.packname = 'Sticker';
+global.packname =   'Mavuika Bot';
 global.author = 'BrunoSobrino';
-global.wm = 'The Mystic - Bot';
+global.wm =  'Mavuika Bot';
+
 global.titulowm = 'Mystic Bot';
 global.titulowm2 = `Mystic Bot`
 global.igfg = 'The Mystic';
